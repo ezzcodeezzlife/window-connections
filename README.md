@@ -4,11 +4,11 @@ A web application that visualizes connections between multiple browser windows b
 
 ## Features
 
-- ðŸªŸ **Multi-Window Support**: Open multiple windows and see them all connected
-- ðŸŽ¨ **Color-Coded Windows**: Each window gets a unique color for easy identification
-- ðŸ“ **Real-Time Updates**: Lines update automatically when windows are moved or resized
-- ðŸ”„ **Auto-Sync**: New windows automatically connect to existing ones
-- ðŸ“± **Responsive**: Works across different window sizes and screen resolutions
+- 🪟 **Multi-Window Support**: Open multiple windows and see them all connected
+- 🎨 **Color-Coded Windows**: Each window gets a unique color for easy identification
+- 📍 **Real-Time Updates**: Lines update automatically when windows are moved or resized
+- 🔄 **Auto-Sync**: New windows automatically connect to existing ones
+- 📱 **Responsive**: Works across different window sizes and screen resolutions
 
 ## How It Works
 
